@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "exception": "c",
+        "algorithm": "c",
+        "cmath": "c",
+        "fstream": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "random": "c",
+        "typeinfo": "c",
+        "cstdio": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
